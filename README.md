@@ -8,6 +8,9 @@ This repository contains a collection of Android projects demonstrating various 
 1. **ToDo App**
    - A simple ToDo app to manage daily tasks.
    - Features: Add, edit, delete, and mark tasks as completed.
+     
+***************************************************************
+the following apps are planned for the  future
 
 2. **Weather App**
    - A weather app that displays current weather data for various cities.
@@ -20,6 +23,7 @@ This repository contains a collection of Android projects demonstrating various 
 4. **Calculator App**
    - A basic calculator for simple mathematical operations.
    - Features: Addition, subtraction, multiplication, division.
+*******************************************************************
 
 ## Installation and Setup
 
