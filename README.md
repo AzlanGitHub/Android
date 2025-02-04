@@ -36,7 +36,7 @@ the following apps are planned for the  future
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/android-projects.git
+   git clone https://github.com/AzlanGitHub/Android.git
 
 2.Open the desired project in Android Studio:
 
