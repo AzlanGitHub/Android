@@ -15,13 +15,13 @@ A simple and user-friendly ToDo app to manage your daily tasks and stay organize
 ### Prerequisites
 
 - [Android Studio](https://developer.android.com/studio)
-- [Git](https://git-scm.com/)
+- [Git](https://git-scm.com)
 
 ### Steps
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/AzlanGitHub/Android.git
 auf Englisch bitte.
 Of course! Here’s a README for a ToDo app in English:
 
@@ -36,7 +36,7 @@ A simple and user-friendly ToDo app to manage your daily tasks and stay organize
 - **View Task List**: See all your tasks in an organized list.
 - **Edit Tasks**: Modify the title and description of existing tasks.
 - **Delete Tasks**: Remove completed or unnecessary tasks.
-- **Mark Tasks as Completed**: Check off tasks as you finish them.
+
 
 ## Installation
 
@@ -49,7 +49,7 @@ A simple and user-friendly ToDo app to manage your daily tasks and stay organize
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/AzlanGitHub/Android.git
 Open the project in Android Studio:
 
 Go to "File" > "New" > "Project from Version Control" > "Git".
@@ -67,7 +67,6 @@ Edit Task: Tap on an existing task to edit its details.
 
 Delete Task: Swipe a task left or right to delete it.
 
-Mark Task as Completed: Tap the checkmark icon next to the task to mark it as completed.
 
 Contributing
 Contributions are welcome! To contribute, please follow these steps:
